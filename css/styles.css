@@ -1,0 +1,25 @@
+#show-sydney {
+  display: none;
+}
+
+#show-portland {
+  display: none;
+}
+
+.sydney {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.sydney:hover {
+  text-decoration: underline;
+}
+
+.portland {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.portland:hover {
+  text-decoration: underline;
+}
